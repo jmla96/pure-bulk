@@ -1,4 +1,4 @@
-<footer class="col-xs-12 bg-amethyst-dark ">
+<footer class="col-xs-12 bg-amethyst-dark push-15-t">
 
     <div class="col-xs-6 col-md-2 text-white col-md-offset-2">
         <p class="center-b text-white"><b>TESTIMONIOS</b></p>

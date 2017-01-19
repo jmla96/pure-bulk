@@ -28,34 +28,34 @@
     <div class="margin-top10px">
         <div class="col-md-3 col-xs-6 center-b ">
             <div class="col-xs-1">
-                <span class="glyphicon glyphicon-calendar fontsize3"></span>
+                <span class="glyphicon glyphicon-calendar fontsize3 margin-top10px"></span>
             </div>
             <div class="col-xs-10">
-                <p> HORARIO DE TRABAJO <br> 9.00 AM - 7.00 PM </p>
+                <p class="push-5-t"> HORARIO DE TRABAJO <br> 9.00 AM - 7.00 PM </p>
             </div>
         </div>
         <div class="col-md-3 col-xs-6 center-b ">
             <div class="col-xs-1">
-                <span class="glyphicon glyphicon-plane fontsize3"></span>
+                <span class="glyphicon glyphicon-plane fontsize3 margin-top10px"></span>
             </div>
             <div class="col-xs-10">
-                <p> ENVIOS GRATIS <br> Compras Mayores $200.000 </p>
+                <p class="push-5-t"> ENVIOS GRATIS <br> Compras Mayores $200.000 </p>
             </div>
         </div>
         <div class="col-md-3 col-xs-6 center-b ">
             <div class="col-xs-1">
-                <span class="glyphicon glyphicon-usd fontsize3"></span>
+                <span class="glyphicon glyphicon-usd fontsize3 margin-top10px"></span>
             </div>
             <div class="col-xs-10">
-                <p> 100% GARANTIA <br> Mejor Calidad</p>
+                <p class="push-5-t"> 100% GARANTIA <br> Mejor Calidad</p>
             </div>
         </div>
         <div class="col-md-3 col-xs-6 center-b ">
             <div class="col-xs-1">
-                <span class="glyphicon glyphicon-phone fontsize3"></span>
+                <span class="glyphicon glyphicon-phone fontsize3 margin-top10px"></span>
             </div>
             <div class="col-xs-10">
-                <p> TELEFONO: 315-559-42-37<br> Pide En Linea Ahora !</p>
+                <p class="push-5-t"> TELEFONO: 315-559-42-37<br> Pide En Linea Ahora !</p>
             </div>
         </div>
 

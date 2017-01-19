@@ -8,8 +8,7 @@
         color:black;
     }
     .btn-nav:hover {
-        background: yellow !important;
-        border-bottom: 1px solid black;
+        background: #E3F037 !important;
     }
     .fixed {position:fixed;}
 
