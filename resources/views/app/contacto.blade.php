@@ -1,19 +1,11 @@
 @extends('template.master')
 @section('contenido')
 
-    <div class="col-xs-12 margin-top40px">
-        <div class="col-md-4 col-md-offset-1">
-            <div class="block block-themed">
+    <div class="col-xs-12 push-50-t">
+        <div class="col-lg-4 col-md-6 col-md -offset-2 col-xs-12">
+            <div class="block block-themed border">
                 <div class="block-header bgfive">
-                    <ul class="block-options">
-                        <li>
-                            <button type="button" data-toggle="block-option" data-action="refresh_toggle" data-action-mode="demo"><i class="si si-refresh"></i></button>
-                        </li>
-                        <li>
-                            <button type="button" data-toggle="block-option" data-action="content_toggle"><i class="si si-arrow-up"></i></button>
-                        </li>
-                    </ul>
-                    <h3 class="block-title">Enviar mensaje</h3>
+                    <h3 class="block-title"><i class="si si-envelope push-15-r"></i> Enviar mensaje</h3>
                 </div>
                 <div class="block-content">
                     <form action="{{ url('/basicemail') }}" method="post" class="form-horizontal push-5-t" onsubmit="return false;">
@@ -46,15 +38,18 @@
             </div>
             <!-- END Bootstrap Login -->
         </div>
-        <div class="col-md-6 ">
-            <p class="h3 center-b"><b>CONTACTO</b></p>
-            <div class="margin-top30px">
-                <div class="col-xs-1 col-md-offset-2">
-                    <span class="glyphicon glyphicon-phone-alt fontsize4"></span>
+        <div class="col-lg-4 col-md-6 text-justify col-xs-12">
+            <div class="block block-themed border">
+                <div class="block-header bgfive">
+
+                    <h3 class="block-title"><span class="glyphicon glyphicon-phone-alt push-15-r"></span> CONTACTO</h3>
                 </div>
-                <div class="col-xs-8 ">
-                    <li>TELEFONO: 315-559-42-37</li>
-                    <li>CORREO ELECTRONICO: 315-559-42-37</li>
+                <div class="block-content mheight-100">
+                        <li>TELEFONO: 315-559-42-37</li>
+                        <li>TELEFONO: 314-553-56-32</li>
+                        <li>CORREO ELECTRONICO: contacto@pure-bulk.com</li>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.536014950605!2d-74.05799409956433!3d4.676472198799039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9aed9d4d312b%3A0x312cacce0c5a943b!2sCra.+19a+%2390-13%2C+Bogot%C3%A1%2C+Colombia!5e0!3m2!1sen!2ses!4v1484947888099"
+                            class="width100" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>

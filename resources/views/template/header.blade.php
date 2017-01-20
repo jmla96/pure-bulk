@@ -24,45 +24,37 @@
     </div>
 </nav>
 
-<div class="col-xs-12 bgeight text-white center-b margin-top68px">
+<div class="col-xs-12 bgeight text-white center-b push-68-t">
     <div class="margin-top10px">
         <div class="col-md-3 col-xs-6 center-b ">
-            <div class="col-xs-1">
-                <span class="glyphicon glyphicon-calendar fontsize3 margin-top10px"></span>
-            </div>
-            <div class="col-xs-10">
-                <p class="push-5-t"> HORARIO DE TRABAJO <br> 9.00 AM - 7.00 PM </p>
+            <div class="col-xs-12">
+                <span class="glyphicon glyphicon-calendar fontsize3 push-15-t float-sm-left push-5-r"></span>
+                <p class="push-10-t"> HORARIO DE TRABAJO <br> 9.00 AM - 7.00 PM </p>
             </div>
         </div>
         <div class="col-md-3 col-xs-6 center-b ">
-            <div class="col-xs-1">
-                <span class="glyphicon glyphicon-plane fontsize3 margin-top10px"></span>
-            </div>
-            <div class="col-xs-10">
-                <p class="push-5-t"> ENVIOS GRATIS <br> Compras Mayores $200.000 </p>
+            <div class="col-xs-12">
+                <span class="glyphicon glyphicon-plane fontsize3 push-15-t float-sm-left push-5-r"></span>
+                <p class="push-10-t"> ENVIOS GRATIS <br> Compras Mayores $200.000 </p>
             </div>
         </div>
         <div class="col-md-3 col-xs-6 center-b ">
-            <div class="col-xs-1">
-                <span class="glyphicon glyphicon-usd fontsize3 margin-top10px"></span>
-            </div>
-            <div class="col-xs-10">
-                <p class="push-5-t"> 100% GARANTIA <br> Mejor Calidad</p>
+            <div class="col-xs-12">
+                <span class="glyphicon glyphicon-usd fontsize3 push-15-t float-sm-left push-5-r"></span>
+                <p class="push-10-t"> 100% GARANTIA <br> Mejor Calidad</p>
             </div>
         </div>
         <div class="col-md-3 col-xs-6 center-b ">
-            <div class="col-xs-1">
-                <span class="glyphicon glyphicon-phone fontsize3 margin-top10px"></span>
-            </div>
-            <div class="col-xs-10">
-                <p class="push-5-t"> TELEFONO: 315-559-42-37<br> Pide En Linea Ahora !</p>
+            <div class="col-xs-12">
+                <span class="glyphicon glyphicon-phone fontsize3 push-15-t float-sm-left push-5-r"></span>
+                <p class="push-10-t"> TELEFONO: 315-559-42-37<br> Pide En Linea Ahora !</p>
             </div>
         </div>
 
     </div>
 </div>
 
-<div class="absolute margin-top150px ">
+<div class="absolute push-150-t">
     <button class="btn btn-primary btn-noborder btn-square width50px">
         <i class="fa fa-facebook"></i>
     </button>

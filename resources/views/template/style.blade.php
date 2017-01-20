@@ -12,6 +12,10 @@
     }
     .fixed {position:fixed;}
 
+    .width10px { width: 10px;}
+    .width20px { width: 20px;}
+    .width30px { width: 30px;}
+    .width40px { width: 40px;}
     .width50px { width: 50px;}
     .width70px { width: 70px;}
     .width250px { width: 250px;}
@@ -38,25 +42,6 @@
     .height600px { min-height: 600px;}
     .height150px { min-height: 150px;}
 
-    .margin-top5px { margin-top: 5px;}
-    .margin-top10px { margin-top: 10px;}
-    .margin-top20px { margin-top: 20px;}
-    .margin-top30px { margin-top: 30px;}
-    .margin-top40px { margin-top: 40px;}
-    .margin-top50px { margin-top: 50px;}
-    .margin-top60px { margin-top: 60px;}
-    .margin-top65px { margin-top: 65px;}
-    .margin-top68px { margin-top: 68px;}
-    .margin-top70px { margin-top: 70px;}
-    .margin-top80px { margin-top: 80px;}
-    .margin-top250px { margin-top: 250px;}
-    .margin-top100px { margin-top: 100px;}
-    .margin-top200px { margin-top: 200px;}
-    .margin-top300px { margin-top: 300px;}
-    .margin-top350px { margin-top: 350px;}
-    .margin-top400px { margin-top: 400px;}
-    .margin-top150px { margin-top: 150px;}
-
     .fontsize1 { font-size: 10px; }
     .fontsize2 { font-size: 20px; }
     .fontsize3 { font-size: 30px; }
@@ -64,7 +49,7 @@
     .fontsize5 { font-size: 50px; }
     .fontsize6 { font-size: 60px; }
     .fontsize11 { font-size: 110px; }
-
+    .push-68-t{margin-top:68px;}
     .bgone{ background: #E3F037; }
     .bgtwo{ background: #323a45; }
     .bgthree{ background: #F0523A; }

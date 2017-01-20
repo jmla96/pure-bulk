@@ -1,11 +1,11 @@
 @extends('template.master')
 @section('contenido')
 
-    <div class="col-xs-12 margin-top50px">
+    <div class="col-xs-12 push-50-t">
         <div class="col-xs-12 center-b">
             <h2>100% WHEY PROTEIN ISOLATE 5 LB</h2>
         </div>
-        <div class="col-lg-3 margin-top30px col-md-offset-1 col-xs-12">
+        <div class="col-lg-3 push-30-t col-md-offset-1 col-xs-12">
             <p class="text-justify">
                 100% Whey Protein Isolated es la proteína de suero aislada de más alta
                 calidad disponible en el mercado. 0 gramos de carbohidratos y menos
@@ -19,24 +19,24 @@
                 desempeño físico, logrando resultados más rápidos, duraderos y saludables.
             </p>
         </div>
-        <div class="col-lg-4 center-b col-sm-6 col-xs-12">
-            <img src="{{url('assets/img/pure-bulk.jpg')}}" class="img-responsive center-b" alt="pure-bulk"
+        <div class="col-lg-4 center-b col-md-6 col-xs-12 center-b">
+            <img src="{{url('assets/img/pure-bulk.jpg')}}" class="width100" alt="pure-bulk"
                  title="Pure Bulk">
         </div>
-        <div class="col-lg-3 center-b margin-top50px text-left col-sm-6 col-xs-12">
-            <button class="btn btn-rounded bg-white border"> - 0 gramos de carbohidratos</button>
+        <div class="col-lg-3 center-b push-50-t text-left col-md-6 col-xs-12 col-md-offset-3 col-md-offset-0">
+            <button class="btn btn-rounded bg-white border width100"> - 0 gramos de carbohidratos</button>
             <br> <br>
-            <button class="btn btn-rounded bg-white border">- menos de 0,1 gramos de grasa por porción</button>
+            <button class="btn btn-rounded bg-white border width100">- menos de 0,1 gramos de <br> grasa por porción</button>
             <br> <br>
-            <button class="btn btn-rounded bg-white border">- más de 29 gramos de proteína <br>por 30 gramos de porción
+            <button class="btn btn-rounded bg-white border width100">- más de 29 gramos de proteína <br>por 30 gramos de porción
             </button>
             <br> <br>
-            <button class="btn btn-rounded bg-white border">- más del 12% de leucina y 50% <br>de aminoácidos esenciales
+            <button class="btn btn-rounded bg-white border width100">- más del 12% de leucina y 50% <br>de aminoácidos esenciales
             </button>
         </div>
     </div>
     <div class="col-xs-12">
-        <div class="col-xs-10 col-md-offset-1 text-justify">
+        <div class="col-xs-12 col-md-10 col-sm-offset-1 text-justify push-15-t">
             <p>En el mundo deportivo, la proteína de mayor valor biológico, rápida absorción y propiedades altamente
                 anabolizantes, es la proteína de suero (whey protein). Adicionalmente, numerosos estudios recientes han
                 demostrado que la proteína de suero tiene efectos altamente benéficos para reforzar el sistema
@@ -59,12 +59,13 @@
             <p>Si usted está buscando la proteína whey más pura y de mayor calidad en existencia, ya conoce 100% Whey
                 Protein Isolated sin azúcar, soya, levadura, gluten, colorantes, saborizantes, solo proteína de suero
                 aislada pura!
+            </p>
         </div>
     </div>
 
 
     <div class="col-xs-12">
-        <div class="col-sm-6 col-md-4 col-md-offset-4">
+        <div class="col-sm-6 col-md-4 col-sm-offset-4">
             <a class="block block-rounded block-link-hover3 text-center border" href="javascript:void(0)">
                 <div class="block-content block-content-full">
                     <div class="h1 font-w700"><span class="h2 text-muted">CO$</span> 180.000</div>
