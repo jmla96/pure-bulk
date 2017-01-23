@@ -42,7 +42,7 @@
                     </div>
                     <div class="block-content center-b ">
                         <p class="text-justify">puedes realizar el pago por tarjeta de credito con nuestra plataforma PAYU</p>
-                        <button class="btn btn-primary "><img src="{{url('assets/img/logo-payu.svg')}}"  width="60"></button>
+                        <a href="https://www.payu.com.co/" target="_blank"> <button class="btn btn-primary "><img src="{{url('assets/img/logo-payu.svg')}}"  width="60"></button></a>
                         <p class="text-justify push-30-t">Todas nuestras Formas de Pago estan 100% aseguradas por neustra politica de devolucion al consumidor</p>
                     </div>
                 </div>

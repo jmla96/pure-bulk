@@ -16,9 +16,9 @@
 
     <div class="col-xs-6 col-md-2">
         <p class="center-b text-white "> <b>REDES SOCIALES</b> </p>
-        <a href="https://www.facebook.com/PureBulkSupplements" target="_blank"><span class="glyphicon glyphicon-apple"></span> Facebook</a><br>
-        <a href="https://twitter.com/Pure_Bulk" target="_blank"><span class="glyphicon glyphicon-apple"></span> Twitter</a><br>
-        <a href="https://www.instagram.com/pure_bulk/" target="_blank"><span class="glyphicon glyphicon-apple"></span> Instagram</a><br>
+        <a href="https://www.facebook.com/PureBulkSupplements" target="_blank" class="push-5-l"><span class="si si-social-facebook push-5-r"></span> Facebook</a><br>
+        <a href="https://twitter.com/Pure_Bulk" target="_blank" class="push-5-l"><span class="si si-social-twitter push-5-r"></span> Twitter</a><br>
+        <a href="https://www.instagram.com/pure_bulk/" target="_blank" class="push-5-l"><span class="fa fa-instagram push-5-r"></span> Instagram</a><br>
     </div>
 
     <div class="col-xs-6 col-md-3 text-white">

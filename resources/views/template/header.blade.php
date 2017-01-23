@@ -53,17 +53,3 @@
 
     </div>
 </div>
-
-<div class="absolute push-150-t">
-    <button class="btn btn-primary btn-noborder btn-square width50px">
-        <i class="fa fa-facebook"></i>
-    </button>
-    <br>
-    <button class="btn btn-primary btn-noborder btn-square width50px">
-        <i class="fa fa-twitter"></i>
-    </button>
-    <br>
-    <button class="btn btn-primary btn-noborder btn-square width50px">
-        <i class="fa fa-instagram"></i>
-    </button>
-</div>

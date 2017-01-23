@@ -1,9 +1,24 @@
 @extends('template.master')
+@section('meta')
+
+@endsection
 @section('contenido')
 
-<div class="width100 overflow-hidden">
-    <img src="http://sergimateo.com/wp-content/2012/12/portada-facebook-frases-13.jpg" class="width100">
-</div>
+    <div class="col-xs-12 remove-margin remove-padding overflow-hidden">
+        <div class="block-content remove-padding">
+            <div class="js-slider slick-nav-white slick-nav-hover" data-slider-dots="true" data-slider-arrows="true" data-slider-autoplay="true" data-slider-autoplay-speed="3000">
+                <div>
+                    <img class="img-responsive" src="{{url('assets/img/prs1.png')}}" alt="presentacion">
+                </div>
+                <div>
+                    <img class="img-responsive" src="{{url('assets/img/prs1.png')}}" alt="presentacion">
+                </div>
+                <div>
+                    <img class="img-responsive" src="{{url('assets/img/prs1.png')}}" alt="presentacion">
+                </div>
+            </div>
+        </div>
+    </div>
 
 <div class="col-xs-12 padding50px padding60px">
     <div class="col-xs-12  ">
@@ -102,5 +117,8 @@
             </div>
         </div>
     </div>
-</div>
+    </div>
+@endsection
+@section('links')
+
 @endsection

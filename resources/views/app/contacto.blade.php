@@ -2,7 +2,7 @@
 @section('contenido')
 
     <div class="col-xs-12 push-50-t">
-        <div class="col-lg-4 col-md-6 col-md -offset-2 col-xs-12">
+        <div class="col-lg-4 col-md-6 col-md-offset-2 col-xs-12">
             <div class="block block-themed border">
                 <div class="block-header bgfive">
                     <h3 class="block-title"><i class="si si-envelope push-15-r"></i> Enviar mensaje</h3>
@@ -36,7 +36,6 @@
                     </form>
                 </div>
             </div>
-            <!-- END Bootstrap Login -->
         </div>
         <div class="col-lg-4 col-md-6 text-justify col-xs-12">
             <div class="block block-themed border">
