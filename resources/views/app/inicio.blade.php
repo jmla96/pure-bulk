@@ -8,7 +8,7 @@
         <div class="block-content remove-padding">
             <div class="js-slider slick-nav-white slick-nav-hover" data-slider-dots="true" data-slider-arrows="true" data-slider-autoplay="true" data-slider-autoplay-speed="3000">
                 <div>
-                    <img class="img-responsive" src="{{url('assets/img/prs1.png')}}" alt="presentacion">
+                    <img class="width100" src="{{url('assets/img/prs1.png')}}" alt="presentacion">
                 </div>
                 <div>
                     <img class="img-responsive" src="{{url('assets/img/prs1.png')}}" alt="presentacion">
@@ -57,7 +57,7 @@
     <div class="col-xs-12 col-lg-6 col-md-offset-3 push-30-t bg-white text-black-op padding50px bradiusone shadow1">
         <h3 class="center-b">CREATINE MONOHYDRATE 1 KILO</h3>
         <div class="col-sm-4 col-xs-12 center-b">
-            <img src="{{url('assets/img/creatine.jpg')}}" class="width100 center-b">
+            <img src="{{url('assets/img/creatine.jpg')}}" class="width100 center-b" alt="creatine" title="creatina">
         </div>
         <div class="col-sm-7 push-15-t center-b col-xs-12 col-sm-offset-1 col-md-offset-0">
             <p class="text-justify">Creatine Monohydrate es la creatina mas pura con un 99.99%
@@ -78,7 +78,7 @@
     <div class="col-xs-12 col-lg-6 col-md-offset-3 push-30-t bg-white text-black-op padding50px bradiusone shadow1">
         <h3 class="center-b">GLUTAMINE 500 GRM</h3>
         <div class="col-sm-4 col-xs-12 center-b">
-            <img src="{{url('assets/img/glutamine.jpg')}}" class="width100 center-b">
+            <img src="{{url('assets/img/glutamine.jpg')}}" class="width100 center-b" alt="glutamine" title="glutamina">
         </div>
         <div class="col-sm-7 push-15-t center-b col-xs-12 col-sm-offset-1 col-md-offset-0">
             <p class="text-justify">La glutamina PURE BULK se presenta en un polvo de grado
@@ -99,7 +99,7 @@
     <div class="col-xs-12 col-lg-6 col-md-offset-3 push-30-t bg-white text-black-op padding50px bradiusone shadow1">
         <h3 class="center-b">100% WHEY PROTEIN ISOLATE 5 LB</h3>
         <div class="col-sm-4 col-xs-12 center-b">
-            <img src="{{url('assets/img/pure-bulk.jpg')}}" class="width100 center-b">
+            <img src="{{url('assets/img/pure-bulk.jpg')}}" class="width100 center-b" alt="pure-bulk" title="Pure Bulk">
         </div>
         <div class="col-sm-7 push-15-t center-b col-xs-12 col-sm-offset-1 col-md-offset-0">
             <p class="text-justify">100% WHEY PROTEIN ISOLATE 5 LB

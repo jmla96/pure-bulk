@@ -38,11 +38,11 @@
                 <div class="block block-themed border">
                     <div class="block-header bgfive">
 
-                        <h3 class="block-title"><img src="{{url('assets/img/icon-payu.svg')}}" class="width20px push-15-r"> Pago Por PAYU</h3>
+                        <h3 class="block-title"><img src="{{url('assets/img/icon-payu.svg')}}" class="width20px push-15-r" alt="icon-payu" title="Icon Payu"> Pago Por PAYU</h3>
                     </div>
                     <div class="block-content center-b ">
                         <p class="text-justify">puedes realizar el pago por tarjeta de credito con nuestra plataforma PAYU</p>
-                        <a href="https://www.payu.com.co/" target="_blank"> <button class="btn btn-primary "><img src="{{url('assets/img/logo-payu.svg')}}"  width="60"></button></a>
+                        <a href="https://www.payu.com.co/" target="_blank"> <button class="btn btn-primary "><img src="{{url('assets/img/logo-payu.svg')}}"  width="60" alt="logo-payu" title="Logo Payu"></button></a>
                         <p class="text-justify push-30-t">Todas nuestras Formas de Pago estan 100% aseguradas por neustra politica de devolucion al consumidor</p>
                     </div>
                 </div>
