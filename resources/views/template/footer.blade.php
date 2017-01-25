@@ -2,7 +2,7 @@
 
     <div class="col-xs-6 col-md-2 text-white col-md-offset-2">
         <p class="center-b text-white"><b>TESTIMONIOS</b></p>
-        <p>“ Esta es la mejor pagina de venta de suplementos a granel, de ahora en adelante sol ocompraré BULK ”</p>
+        <p>“ Esta es la mejor pagina de venta de suplementos a granel, de ahora en adelante solo compraré BULK ”</p>
     </div>
 
     <div class="col-xs-6 col-md-2">
@@ -28,7 +28,7 @@
         <p>E-mail: contacto@pure-bulk.com</p>
         <img src="https://web.archive.org/web/20160401003422im_/https://www.pure-bulk.com/media/wysiwyg/payment.png">
     </div>
-    <div class="col-xs-12 margin-top40px text-amethyst-lighter center-b">
+    <div class="col-xs-12 push-30-t text-amethyst-lighter center-b">
         © 2017 Pure Bulk. Todos Los Derechos Reservados.
     </div>
 </footer>
