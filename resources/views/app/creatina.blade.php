@@ -69,17 +69,50 @@
         </div>
     </div>
 
-    <div class="col-xs-12">
-        <div class="col-xs-12 col-sm-4 col-sm-offset-4">
-            <a class="block block-rounded block-link-hover3 text-center border" href="javascript:void(0)">
-                <div class="block-content block-content-full">
+    <div class="col-xs-12 push-30-t">
+        <div class="col-sm-6 col-md-4 col-md-offset-4 col-sm-offset-3">
+            <div class="block block-rounded block-link-hover3 text-center border">
+                <div class="block-content ">
                     <div class="h1 font-w700"><span class="h2 text-muted">CO$</span> 100.000</div>
-                    <div class="h5 text-muted text-uppercase push-5-t"><u>Creatine 500 Grm</u></div>
+                    <div class="h5 text-muted text-uppercase push-5-t"><u>CREATINE 500 GRM</u></div>
                 </div>
-                <div class="block-content block-content-full block-content-mini btn-primary text-white">
-                    <i class="glyphicon glyphicon-shopping-cart"></i> Comprar
+                 
+                <div class=" block-content-mini text-white">
+                    <form method="post" class="" action="https://gateway.payulatam.com/ppp-web-gateway/pb.zul"
+                          accept-charset="UTF-8">
+                        <button class="btn btn-primary btn-block"
+                                onClick="this.form.urlOrigen.value = window.location.href;"><i
+                                    class="glyphicon glyphicon-shopping-cart"></i> Comprar
+                        </button>
+                        <div class="hidden">
+                            <input name="buttonId" type="hidden"
+                                   value="4x4opPNJ/K7UdyDagOWvLA++nR5FodnSrGjRyWDUVsRwvV7olxs2oQ=="/>
+                              <input name="merchantId" type="hidden" value="504756"/>
+                              <input name="accountId" type="hidden" value="505717"/>
+                              <input name="description" type="hidden" value="whey protein isolate 5lb"/>
+                              <input name="referenceCode" type="hidden" value="001"/>
+                              <input name="amount" type="hidden" value="188000"/>
+                              <input name="tax" type="hidden" value="0"/>
+                              <input name="taxReturnBase" type="hidden" value="0"/>
+                              <input name="shipmentValue" value="8000" type="hidden"/>
+                              <input name="currency" type="hidden" value="COP"/>
+                              <input name="lng" type="hidden" value="es"/>
+                              <input name="approvedResponseUrl" type="hidden" value="https://pure-bulk.com/gracias"/>
+                              <input name="declinedResponseUrl" type="hidden" value="https://pure-bulk.com/no-exitosa"/>
+                              <input name="pendingResponseUrl" type="hidden" value="https://pure-bulk.com/pendiente"/>
+                              <input name="displayShippingInformation" type="hidden" value="YES"/>
+                              <input name="displayBuyerComments" type="hidden" value="true"/>
+                              <input name="sourceUrl" id="urlOrigen" value="" type="hidden"/>
+                              <input name="buttonType" value="SIMPLE" type="hidden"/>
+                              <input name="signature"
+                                     value="d54c6d7bace4b9c836fc62572e1e98c46d4446ef40cbaa03ff02113dc7d5e99d"
+                                     type="hidden"/>
+                        </div>
+
+                    </form>
                 </div>
-            </a>
+
+            </div>
         </div>
     </div>
 

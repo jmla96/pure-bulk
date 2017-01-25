@@ -62,8 +62,8 @@
                 </div>
                 <div class="block-content padding-20">
                     <div class="col-sm-4">
-                        <img src="{{url('assets/img/pure-bulk.png')}}" alt="creatine" title="creatina"
-                             class="col-md-8 col-md-offset-2">
+                        <img src="{{url('assets/img/pure-bulk.png')}}" alt="proteina" title="proteina"
+                             class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2">
                     </div>
                     <div class="col-sm-7 push-20-t">
                         <p class="text-justify"><i>100% Whey Protein Isolated</i> es la proteína de suero aislada de más
@@ -96,7 +96,7 @@
                 <div class="block-content padding-20">
                     <div class="col-sm-4">
                         <img src="{{url('assets/img/creatine.png')}}" alt="creatine" title="creatina"
-                             class="col-md-8 col-md-offset-2">
+                             class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2">
                     </div>
                     <div class="col-sm-7 push-20-t">
                         <p class="text-justify"><i>Creatine Monohydrate</i> es la creatina mas pura con un 99.99%
@@ -127,8 +127,8 @@
                 </div>
                 <div class="block-content padding-20">
                     <div class="col-sm-4">
-                        <img src="{{url('assets/img/glutamine.png')}}" alt="creatine" title="creatina"
-                             class="col-md-8 col-md-offset-2">
+                        <img src="{{url('assets/img/glutamine.png')}}" alt="glutamina" title="glutamina"
+                             class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2">
                     </div>
                     <div class="col-sm-7 push-20-t">
                         <p class="text-justify">La <i>glutamina</i> <strong> PURE BULK</strong> se presenta en un polvo de grado farmacéutico
