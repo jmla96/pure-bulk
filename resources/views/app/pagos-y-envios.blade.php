@@ -7,7 +7,7 @@
         <div class="push-20-t">
             <div class=" text-justify col-xs-12 col-sm-5 col-sm-offset-1">
                 <div class="block block-themed border">
-                    <div class="block-header bg-gray-dark">
+                    <div class="block-header bg-gray-dark text-left">
 
                         <h3 class="block-title"><span class="fa fa-bank push-15-r"></span> Pago
                             Transferencia Bancaria</h3>

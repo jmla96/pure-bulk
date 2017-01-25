@@ -48,10 +48,10 @@
             </p>
         </div>
         <div class="col-sm-5 col-sm-offset-0 center-b col-xs-offset-3 col-xs-6 text-justify">
-            <img src="{{url('assets/img/pure-bulk.jpg')}}" class="col-xs-12 center-b" alt="pure-bulk"
+            <img src="{{url('assets/img/pure-bulk.png')}}" class="col-md-8 push-20-t col-md-offset-2 col-xs-12 center-b" alt="pure-bulk"
                  title="Creatine Pure Bulk" >
         </div>
-        <div class="col-sm-5 center-b col-xs-12 text-justify">
+        <div class="col-sm-5 center-b col-xs-12 text-justify push-20-t">
             <h3 class="text-left">SEGURIDAD CREATINE MONOHYDRATE</h3>
             <p class="push-10-t">La <i>creatina</i> monohydratada es el suplemento más ampliamente investigado los
                 deportes en la existencia. El uso ha sido probado por períodos de más de 21 meses, sin efectos adversos.
@@ -70,7 +70,7 @@
     </div>
 
     <div class="col-xs-12">
-        <div class="col-xs-12 col-md-4 col-sm-offset-4">
+        <div class="col-xs-12 col-sm-4 col-sm-offset-4">
             <a class="block block-rounded block-link-hover3 text-center border" href="javascript:void(0)">
                 <div class="block-content block-content-full">
                     <div class="h1 font-w700"><span class="h2 text-muted">CO$</span> 100.000</div>

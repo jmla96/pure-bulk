@@ -19,8 +19,8 @@
             </p>
         </div>
         <div class="col-lg-4 center-b col-md-6 col-xs-12 center-b">
-            <img src="{{url('assets/img/pure-bulk.jpg')}}" class="col-xs-12" alt="pure-bulk"
-                 title="Pure Bulk">
+            <img src="{{url('assets/img/glutamine.png')}}" class="col-xs-12" alt="Glutamina"
+                 title="Glutamina">
         </div>
         <div class="col-lg-3 center-b push-50-t text-left col-md-6 col-xs-12 col-md-offset-3 col-md-offset-0">
             <button class="btn btn-rounded bg-white border col-xs-12"> - <i>L-glutamina</i> al 100 %.</button>
@@ -32,7 +32,7 @@
     <div class="col-xs-12">
         <div class="col-xs-12 col-md-10 col-sm-offset-1 text-justify push-15-t">
             <p>
-                Si usted se toma el entrenamiento en serio, la glutamina constituye un suplemento imprescindible que
+                Si usted se toma el entrenamiento en serio, la <i>glutamina</i> constituye un suplemento imprescindible que
                 debe administrarse a diario. Reduce el tiempo de recuperación del ejercicio, previene la pérdida
                 muscular, mejora el reabastecimiento de glucógeno y fortalece el sistema inmunitario. De hecho, la
                 <i>glutamina</i> es un suplemento tan eficaz que hasta se indica en hospitales para pacientes de cama a
@@ -42,7 +42,7 @@
             <p>
                 La <i>glutamina</i> <strong>PURE BULK</strong> ofrece actualmente el mejor precio de toda Colombia. En
                 definitiva, no encontrará
-                otra glutamina en polvo de esta calidad y precio en ningún otro lado.
+                otra <i>glutamina</i> en polvo de esta calidad y precio en ningún otro lado.
             </p>
             <p class="h3"> USO</p>
             <p>
@@ -82,8 +82,8 @@
         <div class="col-sm-6 col-md-4 col-sm-offset-4">
             <a class="block block-rounded block-link-hover3 text-center border" href="javascript:void(0)">
                 <div class="block-content block-content-full">
-                    <div class="h1 font-w700"><span class="h2 text-muted">CO$</span> 180.000</div>
-                    <div class="h5 text-muted text-uppercase push-5-t"><u>100% whey protein isolate</u></div>
+                    <div class="h1 font-w700"><span class="h2 text-muted">CO$</span> 90.000</div>
+                    <div class="h5 text-muted text-uppercase push-5-t"><u>Glutamine 500 Grm</u></div>
                 </div>
                 <div class="block-content block-content-full block-content-mini btn-primary text-white">
                     <i class="glyphicon glyphicon-shopping-cart"></i> Comprar
