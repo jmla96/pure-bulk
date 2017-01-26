@@ -71,7 +71,6 @@
                             calidad disponible en el mercado. 0 gramos de carbohidratos y menos de 0,1 gramos de grasa
                             por
                             porción...
-                            <a href="{{url('/proteina')}}" class="link-effect">Ver mas</a>
                         </p>
                     </div>
                     <div class="col-sm-7 push-10-t center-b">
@@ -80,7 +79,9 @@
                             <p class="h4">CO$ 180.000</p>
                         </div>
                         <div class="col-sm-3">
-                            <button class="btn btn-primary text-white ">COMPRAR</button>
+                            <a href="{{url('/proteina')}}" >
+                                <button class="btn btn-primary text-white"> Ver mas</button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -102,7 +103,7 @@
                         <p class="text-justify"><i>Creatine Monohydrate</i> es la creatina mas pura con un 99.99%
                             e pureza tipo industrial y ofrece la mejor relación calidad-precio en toda Colombia,
                             muchos de los suplementos de creatina Monohidrato pueden..
-                            <a href="{{url('/creatina')}}" class="link-effect">Ver mas</a>
+
                         </p>
                     </div>
                     <div class="col-sm-7 push-10-t center-b">
@@ -111,7 +112,9 @@
                             <p class="h4">CO$ 100.000</p>
                         </div>
                         <div class="col-sm-3">
-                            <button class="btn btn-primary text-white ">COMPRAR</button>
+                            <a href="{{url('/creatina')}}" >
+                                <button class="btn btn-primary text-white"> Ver mas </button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -135,7 +138,7 @@
                             100%
                             puro. La <i>glutamina</i> es uno de los suplementos nutritivos deportivos más populares del mundo,
                             principalmente por la gran variedad de...
-                        <a href="{{url('/glutamina')}}" class="link-effect">Ver mas</a>
+
                     </p>
                 </div>
                 <div class="col-sm-7 push-10-t center-b">
@@ -144,7 +147,10 @@
                         <p class="h4">CO$ 90.000</p>
                     </div>
                     <div class="col-sm-3">
-                        <button class="btn btn-primary text-white ">COMPRAR</button>
+                        <form method="post" class="" action="https://gateway.payulatam.com/ppp-web-gateway/pb.zul"
+                              accept-charset="UTF-8">
+                            <a href="{{url('/glutamina')}}" >
+                                <button class="btn btn-primary text-white"> Ver mas</button></a>
                     </div>
                 </div>
             </div>

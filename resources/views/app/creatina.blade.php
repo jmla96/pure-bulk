@@ -1,6 +1,5 @@
 @extends('template.master')
 @section('contenido')
-
     <div class="col-xs-12 push-50-t">
         <div class="col-xs-12 center-b">
             <h2>CREATINE MONOHYDRATE 500 GRM</h2>
@@ -31,7 +30,6 @@
                 Como evidencia de la eficacia de la <i>creatina </i> es, se ha sugerido que más del 90% de los atletas que
                     compiten en los Juegos Olímpicos de 2014 se suplementa con <i>creatina</i>.
             </p>
-
             <h3>USO</h3>
             <p class="push-10-t">
                 Mezclar 1 cucharada (aproximadamente 10 g) con 50 ml de agua y consumir de 1-2 porciones diarias. 1
@@ -68,15 +66,13 @@
             </p>
         </div>
     </div>
-
     <div class="col-xs-12 push-30-t">
         <div class="col-sm-6 col-md-4 col-md-offset-4 col-sm-offset-3">
             <div class="block block-rounded block-link-hover3 text-center border">
                 <div class="block-content ">
                     <div class="h1 font-w700"><span class="h2 text-muted">CO$</span> 100.000</div>
-                    <div class="h5 text-muted text-uppercase push-5-t"><u>CREATINE 500 GRM</u></div>
+                    <div class="h5 text-muted text-uppercase push-5-t"><u>CREATINE 1 KL</u></div>
                 </div>
-                 
                 <div class=" block-content-mini text-white">
                     <form method="post" class="" action="https://gateway.payulatam.com/ppp-web-gateway/pb.zul"
                           accept-charset="UTF-8">
@@ -85,13 +81,13 @@
                                     class="glyphicon glyphicon-shopping-cart"></i> Comprar
                         </button>
                         <div class="hidden">
-                            <input name="buttonId" type="hidden"
-                                   value="4x4opPNJ/K7UdyDagOWvLA++nR5FodnSrGjRyWDUVsRwvV7olxs2oQ=="/>
+                              <input name="buttonId" type="hidden"
+                                     value="Na9PMp661MMvV+4k34fuodv+XK4h8MmwuLjwNIXzK63il580DgM+Rg=="/>
                               <input name="merchantId" type="hidden" value="504756"/>
                               <input name="accountId" type="hidden" value="505717"/>
-                              <input name="description" type="hidden" value="whey protein isolate 5lb"/>
-                              <input name="referenceCode" type="hidden" value="001"/>
-                              <input name="amount" type="hidden" value="188000"/>
+                              <input name="description" type="hidden" value="Creatina 1 kilo pure bulk"/>
+                              <input name="referenceCode" type="hidden" value="002"/>
+                              <input name="amount" type="hidden" value="108000"/>
                               <input name="tax" type="hidden" value="0"/>
                               <input name="taxReturnBase" type="hidden" value="0"/>
                               <input name="shipmentValue" value="8000" type="hidden"/>
@@ -105,13 +101,11 @@
                               <input name="sourceUrl" id="urlOrigen" value="" type="hidden"/>
                               <input name="buttonType" value="SIMPLE" type="hidden"/>
                               <input name="signature"
-                                     value="d54c6d7bace4b9c836fc62572e1e98c46d4446ef40cbaa03ff02113dc7d5e99d"
+                                     value="d345b5c100c913e963c01ca998ea6b47c02d7992f64d4ba9553a0a4529d6e7e8"
                                      type="hidden"/>
                         </div>
-
                     </form>
                 </div>
-
             </div>
         </div>
     </div>

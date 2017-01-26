@@ -93,12 +93,12 @@
                         </button>
                         <div class="hidden">
                             <input name="buttonId" type="hidden"
-                                   value="4x4opPNJ/K7UdyDagOWvLA++nR5FodnSrGjRyWDUVsRwvV7olxs2oQ=="/>
+                                   value="yh+dJ+obzPfAToeoQpRdgSwzK9HJvtfMVt/w6KuevGohYmsa310tiw=="/>
                               <input name="merchantId" type="hidden" value="504756"/>
                               <input name="accountId" type="hidden" value="505717"/>
-                              <input name="description" type="hidden" value="whey protein isolate 5lb"/>
-                              <input name="referenceCode" type="hidden" value="001"/>
-                              <input name="amount" type="hidden" value="188000"/>
+                              <input name="description" type="hidden" value="Glutamina 500 grm pure bulk"/>
+                              <input name="referenceCode" type="hidden" value="003"/>
+                              <input name="amount" type="hidden" value="98000"/>
                               <input name="tax" type="hidden" value="0"/>
                               <input name="taxReturnBase" type="hidden" value="0"/>
                               <input name="shipmentValue" value="8000" type="hidden"/>
@@ -112,7 +112,7 @@
                               <input name="sourceUrl" id="urlOrigen" value="" type="hidden"/>
                               <input name="buttonType" value="SIMPLE" type="hidden"/>
                               <input name="signature"
-                                     value="d54c6d7bace4b9c836fc62572e1e98c46d4446ef40cbaa03ff02113dc7d5e99d"
+                                     value="793cfb966e79a537209fc7ca1fdb4b4e9322ff99c2be8a4730cf723b8d61d5f2"
                                      type="hidden"/>
                         </div>
 

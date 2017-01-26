@@ -8,24 +8,24 @@
                     <h3 class="block-title"><i class="si si-envelope push-15-r"></i> Enviar mensaje</h3>
                 </div>
                 <div class="block-content">
-                    <form action="{{ url('/basicemail') }}" method="post" class="form-horizontal push-5-t" onsubmit="return false;">
+                    <form action="{{ url('/basicemail') }}" method="post" class="form-horizontal push-5-t" >
                         <input type="hidden" name="_token" value="{{ csrf_token() }}">
                         <div class="form-group">
-                            <label class="col-xs-12" for="login1-username">Nombre</label>
+                            <label class="col-xs-12" for="name">Nombre</label>
                             <div class="col-xs-12">
-                                <input class="form-control" type="text" id="nombre" name="nombre" placeholder="Ingresa tu nombre">
+                                <input class="form-control" type="text" id="name" name="name" placeholder="Ingresa tu nombre">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label class="col-xs-12" for="login1-password">Correo electrónico</label>
+                            <label class="col-xs-12" for="mail">Correo electrónico</label>
                             <div class="col-xs-12">
                                 <input class="form-control" type="text" id="mail" name="mail" placeholder="Ingresa tu email">
                             </div>
                         </div>
                         <div class="form-group">
-                            <label class="col-xs-12" for="login1-password">Mensaje</label>
+                            <label class="col-xs-12" for="mensaje">Mensaje</label>
                             <div class="col-xs-12">
-                                <textarea class="form-control" name="mail" placeholder="Escribe tu mensaje"></textarea>
+                                <textarea class="form-control" name="mensaje" placeholder="Escribe tu mensaje"></textarea>
                             </div>
                         </div>
                         <div class="form-group">

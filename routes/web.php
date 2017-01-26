@@ -27,4 +27,13 @@ Route::get('/pagos-y-envios', function(){
 Route::get('/contacto', function(){
     return view('app.contacto');
 });
+Route::get('/gracias', function(){
+    return view('app.gracias');
+});
+Route::get('/no-exitosa', function(){
+    return view('app.no-exitosa');
+});
+Route::get('/pendiente', function(){
+    return view('app.pendiente');
+});
 Route::resource('/basicemail', 'MailController@basic_email');

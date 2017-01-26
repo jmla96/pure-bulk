@@ -24,7 +24,8 @@
         </div>
     </div>
 </nav>
-
+@if(isset($soloMenu))
+@else
 <div class="col-xs-12 bg-primary text-white center-b push-50-t">
     <div class="col-md-3 col-xs-12 col-sm-6 center-b ">
         <span class="glyphicon glyphicon-calendar fontsize3 push-15-t float-left push-20-l visible-md visible-lg visible-sm"></span>
@@ -43,3 +44,4 @@
         <p class="push-10-t"> TELEFONO: 315-559-42-37<br> Pide En Linea Ahora !</p>
     </div>
 </div>
+@endif
