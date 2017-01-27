@@ -12,7 +12,7 @@ class InicioController extends Controller
 {
     public function index(){
     
-        SEO::setTitle('Pure Bulk');
+        SEO::setTitle('Pure Bulk - La proteina mas pura');
         SEO::setDescription('Proteina, creatina y glutamina de muy alta calidad productos “Bulk”, suplementos tipo industrial de grado farmacéutico USP (United States Pharmacopeia)');
         SEO::setCanonical('https://pure-bulk.com');
         SEO::addImages(['url' => 'http://image.url.com/cover.jpg']);
