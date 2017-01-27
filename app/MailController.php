@@ -19,6 +19,6 @@ class MailController extends Controller
         {
             $message->to('contacto@miproteina.com.co')->subject('Pure Bulk - Mensaje de usuario!');
         });
-        return back();
+        return view('app.mensaje-enviado');
     }
 }

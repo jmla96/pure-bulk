@@ -37,3 +37,6 @@ Route::get('/pendiente', function(){
     return view('app.pendiente');
 });
 Route::resource('/basicemail', 'MailController@basic_email');
+Route::get('/mensaje-enviado', function(){
+    return view('app.mensaje-enviado');
+});

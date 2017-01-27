@@ -18,14 +18,14 @@ class InicioController extends Controller
    }
     public function index(){
     
-        SEO::setTitle('Usabilidad y optimizacion de paginas web');
-        SEO::setDescription('This is my page description');
+        SEO::setTitle('Pure Bulk');
+        SEO::setDescription('La proteina de suero aislada de mas alta calidad');
         SEO::setCanonical('https://ziuxlab.com');
         SEO::addImages(['url' => 'http://image.url.com/cover.jpg']);
         SEO::opengraph()->addProperty('type', 'articles');
         SEO::opengraph()->setUrl('http://ziuxlab.com');
-        SEO::twitter()->setSite('@ziuxlab');
-        SEOMeta::addKeyword(['Usabilidad', 'Optimizacion web', 'SEO']);
+        SEO::twitter()->setSite('@Pure_Bulk');
+        SEOMeta::addKeyword(['proteina', 'glutamina', 'creatina', 'protein', 'glutamine', 'creatine', 'proteina de suero']);
        
         return view('app.inicio');
     }
