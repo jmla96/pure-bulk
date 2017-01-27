@@ -9,13 +9,7 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 
 class InicioController extends Controller
-{
-    //
-
-    public function __construct()
-   {
-       $this->middleware('minify');
-   }
+{ 
     public function index(){
     
         SEO::setTitle('Pure Bulk');
