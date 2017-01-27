@@ -6,13 +6,13 @@
             <div class="js-slider slick-nav-white slick-nav-hover" data-slider-arrows="true" data-slider-autoplay="true"
                  data-slider-autoplay-speed="3000">
                 <div>
-                    <img class="img-responsive" src="{{url('assets/img/prs1.png')}}" alt="presentacion">
+                    <img class="img-responsive" src="{{url('assets/img/prs1.png')}}" alt="presentacion" title="Pure Bulk presentacion">
                 </div>
                 <div>
-                    <img class="img-responsive" src="{{url('assets/img/prs2.jpg')}}" alt="presentacion">
+                    <img class="img-responsive" src="{{url('assets/img/prs2.jpg')}}" alt="presentacion" title="Pure Bulk presentacion">
                 </div>
                 <div>
-                    <img class="img-responsive" src="{{url('assets/img/prs3.jpg')}}" alt="presentacion">
+                    <img class="img-responsive" src="{{url('assets/img/prs3.jpg')}}" alt="presentacion" title="Pure Bulk presentacion">
                 </div>
             </div>
         </div>
@@ -55,15 +55,18 @@
         </div>
     </div>
     <div class="col-xs-12 bg-gray-dark padding-20">
-        <h2 class="center-b text-white h1 push-5-t"><b> Todos los productos de  <strong>Pure Bulk</strong></b></h2>
-
+        <div class="center-b text-white h1 push-5-t"><b> Todos los productos de </b>
+            <h1>
+                <strong>Pure Bulk</strong>
+            </h1>
+        </div>
 
         <!-- PROTEINA-->
 
         <div class="col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2 push-30-t">
             <div class="bg-white text-black-op shadow1 block block-rounded block-bordered overflow-hidden">
                 <div class="block-header bg-gray-lighter">
-                    <h3 class="center-b block-title"> 100% WHEY PROTEIN ISOLATE 5 LB</h3>
+                    <h2 class="center-b block-title h3"> 100% WHEY PROTEIN ISOLATE 5 LB</h2>
                 </div>
                 <div class="block-content padding-20">
                     <div class="col-sm-4">
@@ -98,7 +101,7 @@
         <div class="col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2 push-30-t">
             <div class="bg-white text-black-op shadow1 block block-rounded block-bordered overflow-hidden">
                 <div class="block-header bg-gray-lighter">
-                    <h3 class="center-b block-title">CREATINE MONOHYDRATE 500 GRM</h3>
+                    <h2 class="h3 center-b block-title">CREATINE MONOHYDRATE 500 GRM</h2>
                 </div>
                 <div class="block-content padding-20">
                     <div class="col-sm-4">
@@ -133,7 +136,7 @@
         <div class="col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2 push-30-t">
             <div class="bg-white text-black-op shadow1 block block-rounded block-bordered overflow-hidden">
                 <div class="block-header bg-gray-lighter">
-                    <h3 class="center-b block-title">GLUTAMINE 500 GRM</h3>
+                    <h2 class="h3 center-b block-title">GLUTAMINE 500 GRM</h2>
                 </div>
                 <div class="block-content padding-20">
                     <div class="col-sm-4">

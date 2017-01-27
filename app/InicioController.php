@@ -9,17 +9,17 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 
 class InicioController extends Controller
-{ 
+{
     public function index(){
     
         SEO::setTitle('Pure Bulk');
-        SEO::setDescription('La proteina de suero aislada de mas alta calidad');
+        SEO::setDescription('Proteina, creatina y glutamina de muy alta calidad productos “Bulk”, suplementos tipo industrial de grado farmacéutico USP (United States Pharmacopeia)');
         SEO::setCanonical('https://pure-bulk.com');
         SEO::addImages(['url' => 'http://image.url.com/cover.jpg']);
         SEO::opengraph()->addProperty('type', 'articles');
         SEO::opengraph()->setUrl('http://pure-bulk.com');
         SEO::twitter()->setSite('@Pure_Bulk');
-        SEOMeta::addKeyword(['proteina', 'glutamina', 'creatina', 'protein', 'glutamine', 'creatine', 'proteina de suero']);
+        SEOMeta::addKeyword(['proteina', 'glutamina', 'creatina', 'protein', 'glutamine', 'creatine']);
        
         return view('app.inicio');
     }

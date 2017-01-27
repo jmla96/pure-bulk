@@ -16,7 +16,7 @@
                         <p>puedes realizar una transferencia a una cuenta bancaria Bancolombia ,
                             es completamente ¡GRATIS!</p>
                         <div class="col-sm-5">
-                            <img src="{{url('assets/img/logo-grupo-vertical.jpg')}}" class="col-xs-12">
+                            <img src="{{url('assets/img/logo-grupo-vertical.jpg')}}" class="col-xs-12" title="Grupo vertical" alt="Logo grupo vertical">
                         </div>
                         <div class="col-sm-7 text-left">
                             <li>Cuenta numero:<br>
