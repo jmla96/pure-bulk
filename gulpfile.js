@@ -2,8 +2,6 @@ const elixir = require('laravel-elixir');
 
 var critical = require('critical');
 
-require('laravel-elixir-minify-html');
-
 
 /*
  |--------------------------------------------------------------------------
@@ -27,11 +25,6 @@ elixir(mix => {
     //mix.browserSync();
     //mix.phpUnit();
 });
-
-elixir(function(mix) {
-    mix.html('storage/framework/views/*', 'storage/framework/views/', {collapseWhitespace: true, removeAttributeQuotes: true, removeComments: true, minifyJS: true});
-});
-
 gulp.task('critical', function () {
     critical.generate({
         base: 'public/',

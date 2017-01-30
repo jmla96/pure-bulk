@@ -21,7 +21,6 @@
 @include('template.scripts')
 </body>
 </html>
-
 <!-- END Stylesheets -->
 <!-- Web fonts -->
 <link rel="stylesheet"

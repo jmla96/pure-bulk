@@ -171,6 +171,3 @@
     </div>
 </div>
 @endsection
-@section('links')
-
-@endsection
