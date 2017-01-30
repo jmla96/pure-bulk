@@ -17,7 +17,7 @@ class MailController extends Controller
         // Send the email with the contactemail view, the user input
         Mail::send('mail', $input, function($message)
         {
-            $message->to('jmla196@gmail.com')->subject('Pure Bulk - Mensaje de usuario!');
+            $message->to('jmla196@gmail.com')->subject('Mensaje de usuario!');
         });
         return view('app.mensaje-enviado');
     }//contacto@miproteina.com.co
