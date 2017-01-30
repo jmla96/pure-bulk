@@ -26,7 +26,7 @@
          Carrera 19a # 90 – 13. Bogota, Colombia
          Telefono: (314) 553-56-32
         <p>E-mail: contacto@pure-bulk.com</p>
-        <img src="https://web.archive.org/web/20160401003422im_/https://www.pure-bulk.com/media/wysiwyg/payment.png">
+        <img src="{{url('assets/img/payment.png')}}" title="Payment" alt="Payment">
     </div>
     <div class="col-xs-12 push-30-t text-amethyst-lighter center-b">
         © 2017 Pure Bulk. Todos Los Derechos Reservados.
