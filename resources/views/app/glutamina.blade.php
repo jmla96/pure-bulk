@@ -7,7 +7,7 @@
         </div>
         <div class="col-lg-3 push-30-t col-lg-offset-1 col-xs-12 text-justify">
             <p>
-                La glutamina PURE BULK se presenta en un polvo de grado farmacéutico 100% puro. La glutamina es uno de
+                La <i>glutamina</i> <b>PURE BULK</b> se presenta en un polvo de grado farmacéutico 100% puro. La <i>glutamina</i> es uno de
                 los
                 suplementos nutritivos deportivos más populares del mundo, principalmente por la gran variedad de
                 beneficios
@@ -32,17 +32,17 @@
     </div>
     <div class="col-xs-12">
         <div class="col-xs-12 col-sm-10 col-sm-offset-1 text-justify push-15-t">
-            <p>Si usted se toma el entrenamiento en serio, la glutamina constituye un suplemento imprescindible que debe
+            <p>Si usted se toma el entrenamiento en serio, la <i>glutamina</i> constituye un suplemento imprescindible que debe
                 administrarse a diario. Reduce el tiempo de recuperación del ejercicio, previene la pérdida muscular,
                 mejora
-                el reabastecimiento de glucógeno y fortalece el sistema inmunitario. De hecho, la glutamina es un
+                el reabastecimiento de glucógeno y fortalece el sistema inmunitario. De hecho, la <i>glutamina</i> es un
                 suplemento
                 tan eficaz que hasta se indica en hospitales para pacientes de cama a fin de reforzar el sistema
                 inmunitario
                 y prevenir la atrofia muscular producto de la inactividad.
             </p>
-            <p>La glutamina PURE BULK ofrece actualmente el mejor precio de toda Colombia. En definitiva, no encontrará
-                otra glutamina en polvo de esta calidad y precio en ningún otro lado.
+            <p>La <i>glutamina</i> <b>PURE BULK</b> ofrece actualmente el mejor precio de toda Colombia. En definitiva, no encontrará
+                otra <i>glutamina</i> en polvo de esta calidad y precio en ningún otro lado.
             </p>
             <p class="h3">USO</p>
             <p>Mezcle 1 cucharada colmada (aproximadamente 5 g) con 50 ml de agua o con un batido proteínico. Se
@@ -50,8 +50,8 @@
                 entre una y tres tomas diarias.
             </p>
             <p class="h3">SINÉRGICOS</p>
-            <p>Acompañar la glutamina de un hidrato de carbono de rápida acción, como el almidón de maíz ceroso, puede
-                contribuir a agilizar el transporte de glutamina a las células musculares. Esta combinación es ideal
+            <p>Acompañar la <i>glutamina</i> de un hidrato de carbono de rápida acción, como el almidón de maíz ceroso, puede
+                contribuir a agilizar el transporte de <i>glutamina</i> a las células musculares. Esta combinación es ideal
                 para
                 después de hacer ejercicio, cuando los músculos necesitan aminoácidos.
             </p>
@@ -60,13 +60,13 @@
                 isolate.
             </p>
             <p class="h3">NUESTRA CALIDAD</p>
-            <p>Al igual que con todos los productos de Pure Bulk este producto se obtiene directamente de proveedor
+            <p>Al igual que con todos los productos de <strong>Pure Bulk</strong> este producto se obtiene directamente de proveedor
                 aprobados. Todos nuestros proveedores son rigurosamente auditados para asegurar que cumplan con nuestros
                 altos estándares y que prueban rutinariamente productos como parte de nuestros procedimientos de control
                 de
                 calidad interno. Nosotros sólo trabajamos con un pequeño número de proveedores seleccionados. Además,
                 todos
-                los productos de Pure Bulk son envasados en nuestras propias bodegas. Todo esto se combina para
+                los productos de <strong>Pure Bulk</strong> son envasados en nuestras propias bodegas. Todo esto se combina para
                 garantizar
                 que ofrecemos sólo productos de la más alta calidad para usted, pero, como siempre, a los precios más
                 bajos
