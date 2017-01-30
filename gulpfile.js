@@ -3,6 +3,7 @@ const elixir = require('laravel-elixir');
 var critical = require('critical');
 
 
+
 /*
  |--------------------------------------------------------------------------
  | Elixir Asset Management
