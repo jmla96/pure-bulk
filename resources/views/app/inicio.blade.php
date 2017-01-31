@@ -88,9 +88,7 @@
                             <p class="h4">CO$ 180.000</p>
                         </div>
                         <div class="col-sm-3">
-                            <a href="{{url('/proteina')}}" >
-                                <button class="btn btn-primary text-white">  Ver mas </button>
-                            </a>
+                            <a href="{{url('/proteina')}}"  class="btn btn-primary text-white"> Ver mas </a>
                         </div>
                     </div>
                 </div>
@@ -122,9 +120,7 @@
                             <p class="h4">CO$ 100.000</p>
                         </div>
                         <div class="col-sm-3">
-                        <a href="{{url('/creatina')}}" >
-                            <button class="btn btn-primary text-white">  Ver mas </button>
-                        </a>
+                        <a href="{{url('/creatina')}}"  class="btn btn-primary text-white"> Ver mas </a>
                         </div>
                     </div>
                 </div>
@@ -160,9 +156,7 @@
                     <div class="col-sm-3">
                         <form method="post" class="" action="https://gateway.payulatam.com/ppp-web-gateway/pb.zul"
                               accept-charset="UTF-8">
-                            <a href="{{url('/glutamina')}}" >
-                                <button class="btn btn-primary text-white">  Ver mas </button>
-                            </a>
+                            <a href="{{url('/glutamina')}}"  class="btn btn-primary text-white"> Ver mas  </a>
                         </form>
                     </div>
                 </div>
