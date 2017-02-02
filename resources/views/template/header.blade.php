@@ -20,25 +20,6 @@
                 <li><a href="{{url('glutamina')}}" class="btn-nav ">GLUTAMINA</a></li>
                 <li><a href="{{url('pagos-y-envios')}}" class="btn-nav "> PAGOS Y ENVIOS</a></li>
                 <li><a href="{{url('contacto')}}" class="btn-nav "> CONTACTO</a></li>
-                <!--
-                <li class="btn-group">
-                        <a class=" btn-nav dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                            IDIOMA <span class="caret"></span>
-                        </a>
-                        <ul class="dropdown-menu dropdown-menu-right">
-                            <li>
-                                <a tabindex="-1" href="{{url('/ingles')}}">
-                                    English
-                                </a>
-                            </li>
-                            <li>
-                                <a tabindex="-1" href="{{url('/espanol')}}">
-                                    Español
-                                </a>
-                            </li>
-                        </ul>
-                </li>
-                -->
             </ul>
         </div>
     </div>
