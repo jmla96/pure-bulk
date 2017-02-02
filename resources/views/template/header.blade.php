@@ -1,4 +1,4 @@
-<nav class="navbar navbar-fixed-top bg-info">
+<nav class="navbar navbar-fixed-top bg-info" >
     <div class="container ">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
@@ -45,7 +45,7 @@
 </nav>
 @if(isset($soloMenu))
 @else
-    <div class="col-xs-12 bg-primary text-white center-b push-50-t">
+    <div class="col-xs-12 bg-primary text-white center-b push-50-t admon">
         <div class="col-md-3 col-xs-12 col-sm-6 center-b ">
             <span class="glyphicon glyphicon-calendar fontsize3 push-15-t float-left push-20-l visible-md visible-lg visible-sm"></span>
             <p class="push-10-t "> HORARIO DE TRABAJO <br> 9.00 AM - 7.00 PM </p>
