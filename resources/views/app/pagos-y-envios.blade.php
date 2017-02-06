@@ -19,13 +19,15 @@
                             <img src="{{url('assets/img/logo-grupo-vertical.jpg')}}" class="col-xs-12" title="Grupo vertical" alt="Logo grupo vertical">
                         </div>
                         <div class="col-sm-7 text-left">
-                            <li>Cuenta numero:<br>
-                                <div class="push-30-l">#865-898-08870</div>
-                            </li>
+                            <ul>
+                                <li>Cuenta numero:<br>
+                                    <div class="push-30-l">#865-898-08870</div>
+                                </li>
 
-                            <li>Tipo de cuenta: Ahorro</li>
+                                <li>Tipo de cuenta: Ahorro</li>
 
-                            <li>Titular: Erika Rodriguez</li>
+                                <li>Titular: Erika Rodriguez</li>
+                            </ul>
                         </div>
                         <p>
                             Despues de realizar el pago debe enviarnos una foto/scanner del recibo con el numero de su
