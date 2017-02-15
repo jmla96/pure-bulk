@@ -31,8 +31,23 @@
         </div>
     </div>
     <div class="col-xs-12">
+        <div class="block block-bordered overflow-hidden push-15-t col-sm-10 col-sm-offset-1">
+            <div class="block-header">
+                <h3><span class="fa fa-spoon"> </span> USO</h3>
+            </div>
+            <div class="block-content block-content-full">
+                Acompañar la <i>glutamina</i> de un hidrato de carbono de rápida acción, como el almidón de maíz ceroso, puede
+                contribuir a agilizar el transporte de <i>glutamina</i> a las células musculares. Esta combinación es ideal
+                para
+                después de hacer ejercicio, cuando los músculos necesitan aminoácidos.
+            </div>
+        </div>
         <div class="col-xs-12 col-sm-10 col-sm-offset-1 text-justify push-15-t">
-            <p>Si usted se toma el entrenamiento en serio, la <i>glutamina</i> constituye un suplemento imprescindible que debe
+            <p>
+                <div class="col-xs-12 col-md-5">
+                    <img src="{{url('assets/img/img6.png')}}" align="left" class="img-responsive">
+                </div>
+                Si usted se toma el entrenamiento en serio, la <i>glutamina</i> constituye un suplemento imprescindible que debe
                 administrarse a diario. Reduce el tiempo de recuperación del ejercicio, previene la pérdida muscular,
                 mejora
                 el reabastecimiento de glucógeno y fortalece el sistema inmunitario. De hecho, la <i>glutamina</i> es un
@@ -41,37 +56,31 @@
                 inmunitario
                 y prevenir la atrofia muscular producto de la inactividad.
             </p>
-            <p>La <i>glutamina</i> <b>PURE BULK</b> ofrece actualmente el mejor precio de toda Colombia. En definitiva, no encontrará
+            <p>
+                La <i>glutamina</i> <b>PURE BULK</b> ofrece actualmente el mejor precio de toda Colombia. En definitiva, no encontrará
                 otra <i>glutamina</i> en polvo de esta calidad y precio en ningún otro lado.
             </p>
-            <p class="h3">USO</p>
-            <p>Mezcle 1 cucharada colmada (aproximadamente 5 g) con 50 ml de agua o con un batido proteínico. Se
-                recomienda
-                entre una y tres tomas diarias.
-            </p>
-            <p class="h3">SINÉRGICOS</p>
-            <p>Acompañar la <i>glutamina</i> de un hidrato de carbono de rápida acción, como el almidón de maíz ceroso, puede
-                contribuir a agilizar el transporte de <i>glutamina</i> a las células musculares. Esta combinación es ideal
-                para
-                después de hacer ejercicio, cuando los músculos necesitan aminoácidos.
-            </p>
-            <p>La glutamina se complementa con muchos otros productos: desde otros aminoácidos, como los BCAA de
-                preparación instantánea, hasta otros productos para estimular los músculos, como la 100% whey proteín
-                isolate.
-            </p>
-            <p class="h3">NUESTRA CALIDAD</p>
-            <p>Al igual que con todos los productos de <strong>Pure Bulk</strong> este producto se obtiene directamente de proveedor
-                aprobados. Todos nuestros proveedores son rigurosamente auditados para asegurar que cumplan con nuestros
-                altos estándares y que prueban rutinariamente productos como parte de nuestros procedimientos de control
-                de
-                calidad interno. Nosotros sólo trabajamos con un pequeño número de proveedores seleccionados. Además,
-                todos
-                los productos de <strong>Pure Bulk</strong> son envasados en nuestras propias bodegas. Todo esto se combina para
-                garantizar
-                que ofrecemos sólo productos de la más alta calidad para usted, pero, como siempre, a los precios más
-                bajos
-                en Colombia.
-            </p>
+            <div class="col-xs-12">
+                </div>
+                    <p class="h3 push-20-t">SINÉRGICOS</p>
+                    <p>La glutamina se complementa con muchos otros productos: desde otros aminoácidos, como los BCAA de
+                        preparación instantánea, hasta otros productos para estimular los músculos, como la 100% whey proteín
+                        isolate.
+                    </p>
+                    <p class="h3 push-30-t">NUESTRA CALIDAD</p>
+                    <p>Al igual que con todos los productos de <strong>Pure Bulk</strong> este producto se obtiene directamente de proveedor
+                        aprobados. Todos nuestros proveedores son rigurosamente auditados para asegurar que cumplan con nuestros
+                        altos estándares y que prueban rutinariamente productos como parte de nuestros procedimientos de control
+                        de
+                        calidad interno. Nosotros sólo trabajamos con un pequeño número de proveedores seleccionados. Además,
+                        todos
+                        los productos de <strong>Pure Bulk</strong> son envasados en nuestras propias bodegas. Todo esto se combina para
+                        garantizar
+                        que ofrecemos sólo productos de la más alta calidad para usted, pero, como siempre, a los precios más
+                        bajos
+                        en Colombia.
+                    </p>
+                </div>
         </div>
     </div>
 

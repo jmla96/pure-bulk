@@ -30,13 +30,30 @@
                 Como evidencia de la eficacia de la <i>creatina </i> es, se ha sugerido que más del 90% de los atletas que
                     compiten en los Juegos Olímpicos de 2014 se suplementa con <i>creatina</i>.
             </p>
-            <h3>USO</h3>
-            <p class="push-10-t">
-                Mezclar 1 cucharada (aproximadamente 10 g) con 50 ml de agua y consumir de 1-2 porciones diarias. 1
-                porción puede ser consumido, ya sea con su pre o batido post-entrenamiento.
-            </p>
-            <h3>LOS SINÉRGICOS</h3>
-            <p class="push-10-t">
+        </div>
+        <div class="col-sm-5 push-20-t col-xs-12">
+            <img src="{{url('assets/img/pure-bulk.png')}}" class="col-md-8 push-20-t col-md-offset-2 col-xs-12 center-b" alt="pure-bulk"
+                 title="Creatine Pure Bulk" >
+        </div>
+            <div class="col-md-10 col-md-offset-1 col-xs-12">
+                <div class="block block-bordered overflow-hidden">
+                    <div class="block-header">
+                        <h3><span class="fa fa-spoon"> </span> USO</h3>
+                    </div>
+                    <div class="block-content ">
+                        <p class="col-md-6 push-30-t col-md-offset-1 text-center col-xs-12">
+                            Mezclar 1 cucharada (aproximadamente 10 g) con 50 ml de agua y consumir de 1-2 porciones diarias. 1
+                            porción puede ser consumido, ya sea con su pre o batido post-entrenamiento.
+                        </p>
+                        <p class="col-xs-12 col-md-4 center-b">
+                            <img class="push-15-l push-5-t img-rounded img-responsive" src="{{url('assets/img/img8.png')}}" >
+                        </p>
+                    </div>
+                </div>
+            </div>
+        <div class="col-md-5 col-md-offset-1">
+            <h3 class="push-50-t">LOS SINÉRGICOS</h3>
+            <p class="push-10-t text-justify">
                 Los hidratos de carbono de liberación rápida tales como almidón de maíz ceroso o dextrosa se han
                 demostrado para mejorar la absorción de la <i>creatina</i>. Esta es la velocidad a la que la <i>creatina </i> es
                 absorbida y entregada a los músculos que están trabajando.
@@ -44,18 +61,14 @@
             <p>
                 Otros productos de consumo habitual con <i>creatina </i> incluyen BCAA y proteína de suero.
             </p>
-        </div>
-        <div class="col-sm-5 col-sm-offset-0 center-b col-xs-offset-3 col-xs-6 text-justify">
-            <img src="{{url('assets/img/pure-bulk.png')}}" class="col-md-8 push-20-t col-md-offset-2 col-xs-12 center-b" alt="pure-bulk"
-                 title="Creatine Pure Bulk" >
-        </div>
-        <div class="col-sm-5 center-b col-xs-12 text-justify push-20-t">
             <h3 class="text-left">SEGURIDAD CREATINE MONOHYDRATE</h3>
-            <p class="push-10-t">La <i>creatina</i> monohydratada es el suplemento más ampliamente investigado los
+            <p class="push-10-t text-justify">La <i>creatina</i> monohydratada es el suplemento más ampliamente investigado los
                 deportes en la existencia. El uso ha sido probado por períodos de más de 21 meses, sin efectos adversos.
                 Es completamente seguro de usar y se encuentra naturalmente en muchos alimentos.
             </p>
-            <h3 class="text-left">NUESTRA CALIDAD</h3>
+        </div>
+        <div class="col-sm-5 center-b col-xs-12 text-justify push-20-t">
+            <h3 class="text-left push-30-t">NUESTRA CALIDAD</h3>
             <p class="push-10-t">Al igual que con todos los productos de <strong>Pure Bulk</strong> este producto se obtiene
                 directamente de proveedor aprobados. Todos nuestros proveedores son rigurosamente auditados para
                 asegurar que cumplan con nuestros altos estándares y que prueban rutinariamente productos como parte de

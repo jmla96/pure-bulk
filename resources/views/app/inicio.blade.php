@@ -21,7 +21,7 @@
     <div class="col-xs-12 padding-30">
         <div class="col-xs-12">
             <div class="col-md-4 col-xs-12">
-                <p class="h2 center-b"><b>  ¿QUE ES BULK? </b></p>
+                <p class="h2 center-b"><b> <span class="fa fa-comment"></span> ¿QUE ES BULK? </b></p>
                 <p class="push-15-t text-justify">
 
                         Los productos “<b>Bulk</b>” o marca blanca, son suplementos tipo industrial de
@@ -33,7 +33,7 @@
             </div>
 
             <div class="col-md-4 col-xs-12">
-                <p class="h2 center-b"><b> ¿100% PUROS? </b></p>
+                <p class="h2 center-b"><b><span class="fa fa-leaf"></span> ¿100% PUROS? </b></p>
                 <p class="push-15-t text-justify">
                      Los nutracéuticos comercializados bajo el concepto “<b>Bulk</b>” son 100% puros,
                         sin azúcar, soya, levadura, gluten, colorantes, saborizantes, o cualquier
@@ -44,7 +44,7 @@
             </div>
 
             <div class="col-md-4 col-xs-12">
-                <p class="h2 center-b"><b> ¿TAN ECONOMICO?  </b></p>
+                <p class="h2 center-b"><b><span class="font-w700 fa fa-dollar"></span> ¿TAN ECONOMICO?  </b></p>
                 <p class="push-15-t text-justify">
                      Los suplementos tipo “<b>Bulk</b>” no invierten en diseño, ni marca, ni publicidad,
                         ya que son marca blanca, lo que abarata considerablemente los costos del producto,
@@ -74,11 +74,10 @@
                              class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2">
                     </div>
                     <div class="col-sm-7 push-20-t">
-                        <p class="text-justify"><i>100% Whey Protein Isolated</i>  es la proteína de suero aislada de más
-                                alta
-                                calidad disponible en el mercado. 0 gramos de carbohidratos y menos de 0,1 gramos de grasa
-                                por
-                                porción...
+                        <p class="text-justify">De los nutrientes más abundantes y funcionales
+                            presente en nuestros músculos. Rica en
+                            proteínas de calidad, mejorará significativamente su desempeño físico, logrando resultados
+                            más rápidos, duraderos y saludables.
 
                         </p>
                     </div>
@@ -107,9 +106,8 @@
                              class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2">
                     </div>
                     <div class="col-sm-7 push-20-t">
-                        <p class="text-justify"><i>Creatine Monohydrate</i>  es la creatina mas pura con un 99.99%
-                            e pureza tipo industrial y ofrece la mejor relación calidad-precio en toda Colombia,
-                            muchos de los suplementos de creatina Monohidrato pueden..
+                        <p class="text-justify">Aumenta la producción de ATP, que es la moneda de energía del cuerpo.
+                            Los mayores niveles de ATP pueden conducir a mejoras en la potencia, fuerza y resistencia.
 
 
                         </p>
@@ -140,10 +138,10 @@
                              class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2">
                     </div>
                     <div class="col-sm-7 push-20-t">
-                        <p class="text-justify"> La <i>glutamina</i> <strong> PURE BULK</strong> se presenta en un polvo de grado farmacéutico
-                            100%
-                            puro. La <i>glutamina</i> es uno de los suplementos nutritivos deportivos más populares del mundo,
-                            principalmente por la gran variedad de...
+                        <p class="text-justify">Reduce el tiempo de recuperación del ejercicio, previene la pérdida
+                            muscular, mejora el reabastecimiento de glucógeno y fortalece el sistema inmunitario. La
+                            <i>glutamina</i> Refuerza el sistema inmunitario y previene la atrofia muscular
+                            producto de la inactividad.
 
 
                     </p>

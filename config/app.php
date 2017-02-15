@@ -174,20 +174,21 @@ return [
         \InfyOm\Generator\InfyOmGeneratorServiceProvider::class,
         InfyOm\AdminLTETemplates\AdminLTETemplatesServiceProvider::class,
         Jlapp\Swaggervel\SwaggervelServiceProvider::class,
+
         /*
          * Own Package Service Providers...
          */
          PrettyRoutes\ServiceProvider::class,
         Artesaos\SEOTools\Providers\SEOToolsServiceProvider::class,
-        //Spatie\ResponseCache\ResponseCacheServiceProvider::class,
         /*
          * Application Service Providers...
          */
         App\Providers\AppServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
+
+
+
 
     ],
 
@@ -242,8 +243,6 @@ return [
         'SEOMeta'   => Artesaos\SEOTools\Facades\SEOMeta::class,
         'OpenGraph' => Artesaos\SEOTools\Facades\OpenGraph::class,
         'Twitter'   => Artesaos\SEOTools\Facades\TwitterCard::class,
-        //'ResponseCache' => Spatie\ResponseCache\ResponseCacheFacade::class,
-        
     ],
 
 ];

@@ -48,12 +48,33 @@
                 y el resultado final será una proteína más pura (suelen tener una pureza de 90-97%) con niveles mucho
                 más bajos de lactosa y grasa.
             </p>
-            <p><i>100% Whey Protein Isolated</i> de <strong>pure bulk</strong> es la proteína de suero aislada de más
+            <p>
+                <div class="block col-md-2 center-b block-bordered push-15-r push-10-t remove-padding remove-margin-b overflow-hidden">
+                    <div class="block-header">
+                        <b>Lactoglobulina</b>
+                    </div>
+                    <div class="block-content">
+                            <img src="{{url('assets/img/beta-lactoglobulina.png')}}" class="img-responsive" align="left" alt="lactoglobulina" title="Lactoglobulina">
+                    </div>
+                </div>
+            <div class="block col-md-2 center-b block-bordered push-30-r push-10-t remove-padding remove-margin-b overflow-hidden">
+                <div class="block-header">
+                    <b>Lactoglobulina</b>
+                </div>
+                <div class="block-content">
+                    <img src="{{url('assets/img/a-lactoalbumina.png')}}" class="img-responsive" align="left" alt="lactoglobulina" title="Lactoglobulina">
+                </div>
+            </div><br>
+            <p>
+                <i>100% Whey Protein Isolated</i> de <strong>pure bulk</strong> es la proteína de suero aislada de más
                 alta calidad disponible en
-                el mercado. 0 gramos de carbohidratos y menos de 0,1 gramos de grasa por porción. <i>100% Whey Protein
+                el mercado. <br> 0 gramos de carbohidratos y menos de 0,1 gramos de grasa por porción. <i>100% Whey Protein
                     Isolated</i> de <strong>pure bulk</strong> contiene más de 26.4 gramos de proteína por 30 gramos de
                 porción y se compone de
-                más del 12% de leucina y 50% de aminoácidos esenciales. Uno de los aspectos más importantes de <i>100%
+                más del 12% de leucina y 50% de aminoácidos esenciales.
+            </p>
+            <p>
+            Uno de los aspectos más importantes de <i>100%
                     Whey
                     Protein Isolated</i> de <strong>pure bulk</strong> es que se compone mayoritariamente de
                 a-lactoalbumina y ß-lactoglobulina,
