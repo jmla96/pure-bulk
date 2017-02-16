@@ -45,7 +45,7 @@
         <div class="col-xs-12 col-sm-10 col-sm-offset-1 text-justify push-15-t">
             <p>
                 <div class="col-xs-12 col-md-5">
-                    <img src="{{url('assets/img/img6.png')}}" align="left" class="img-responsive">
+                    <img src="{{url('assets/img/img6.png')}}" align="left" class="img-responsive" title="men drinking" alt="men drinking">
                 </div>
                 Si usted se toma el entrenamiento en serio, la <i>glutamina</i> constituye un suplemento imprescindible que debe
                 administrarse a diario. Reduce el tiempo de recuperación del ejercicio, previene la pérdida muscular,

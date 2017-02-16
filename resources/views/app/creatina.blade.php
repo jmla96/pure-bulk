@@ -46,7 +46,7 @@
                             porción puede ser consumido, ya sea con su pre o batido post-entrenamiento.
                         </p>
                         <p class="col-xs-12 col-md-4 center-b">
-                            <img class="push-15-l push-5-t img-rounded img-responsive" src="{{url('assets/img/img8.png')}}" >
+                            <img class="push-15-l push-5-t img-rounded img-responsive" src="{{url('assets/img/img8.png')}}" alt="preparando" title="preparando">
                         </p>
                     </div>
                 </div>
