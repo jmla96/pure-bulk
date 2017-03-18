@@ -33,10 +33,11 @@ Route::get('/gracias', function(){
 Route::get('/no-exitosa', function(){
     return view('app.no-exitosa');
 });
-Route::get('/pendiente', function(){
-    return view('app.pendiente');
-});
 Route::resource('/basicemail', 'MailController@basic_email');
+Route::resource('/pendiente', 'pendienteController@basic_email');
+Route::resource('/no-exitosa', 'noexitosaController@basic_email');
+Route::resource('/exitosa', 'exitosaController@basic_email');
+
 Route::get('/mensaje-enviado', function(){
     return view('app.mensaje-enviado');
 });
